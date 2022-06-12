@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.3c497bbc.chunk.css",
-  "main.js": "/static/js/main.3323ad8b.chunk.js",
-  "main.js.map": "/static/js/main.3323ad8b.chunk.js.map",
+  "main.css": "/static/css/main.f5d17813.chunk.css",
+  "main.js": "/static/js/main.842e142b.chunk.js",
+  "main.js.map": "/static/js/main.842e142b.chunk.js.map",
   "static/js/1.e7e0e04a.chunk.js": "/static/js/1.e7e0e04a.chunk.js",
   "static/js/1.e7e0e04a.chunk.js.map": "/static/js/1.e7e0e04a.chunk.js.map",
   "static/js/2.7bde654f.chunk.js": "/static/js/2.7bde654f.chunk.js",
@@ -13,8 +13,8 @@
   "static/media/img2.png": "/static/media/img2.ca0cf099.png",
   "static/media/App.css": "/static/media/Montserrat-Regular.ee653992.ttf",
   "static/media/icons8-facebook-48.svg": "/static/media/icons8-facebook-48.e0385b43.svg",
-  "static/css/main.3c497bbc.chunk.css.map": "/static/css/main.3c497bbc.chunk.css.map",
+  "static/css/main.f5d17813.chunk.css.map": "/static/css/main.f5d17813.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.df2fdb3992ac630600698dd7d9532eaa.js": "/precache-manifest.df2fdb3992ac630600698dd7d9532eaa.js",
+  "precache-manifest.6d2cb973e72dc70855bcaa91e60d64a5.js": "/precache-manifest.6d2cb973e72dc70855bcaa91e60d64a5.js",
   "service-worker.js": "/service-worker.js"
 }
