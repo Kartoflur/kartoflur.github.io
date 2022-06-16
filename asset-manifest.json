@@ -1,20 +1,22 @@
 {
-  "main.css": "/static/css/main.f5d17813.chunk.css",
-  "main.js": "/static/js/main.842e142b.chunk.js",
-  "main.js.map": "/static/js/main.842e142b.chunk.js.map",
-  "static/js/1.e7e0e04a.chunk.js": "/static/js/1.e7e0e04a.chunk.js",
-  "static/js/1.e7e0e04a.chunk.js.map": "/static/js/1.e7e0e04a.chunk.js.map",
-  "static/js/2.7bde654f.chunk.js": "/static/js/2.7bde654f.chunk.js",
-  "static/js/2.7bde654f.chunk.js.map": "/static/js/2.7bde654f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.6a4751f8.js",
-  "runtime~main.js.map": "/static/js/runtime~main.6a4751f8.js.map",
-  "static/media/img.jfif": "/static/media/img.5a2fb0dd.jfif",
-  "static/media/img1.png": "/static/media/img1.3371bd21.png",
-  "static/media/img2.png": "/static/media/img2.ca0cf099.png",
-  "static/media/App.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-  "static/media/icons8-facebook-48.svg": "/static/media/icons8-facebook-48.e0385b43.svg",
-  "static/css/main.f5d17813.chunk.css.map": "/static/css/main.f5d17813.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.6d2cb973e72dc70855bcaa91e60d64a5.js": "/precache-manifest.6d2cb973e72dc70855bcaa91e60d64a5.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.cb21e258.css",
+    "main.js": "/static/js/main.9234ee1b.js",
+    "static/js/787.e1092195.chunk.js": "/static/js/787.e1092195.chunk.js",
+    "static/media/img1.png": "/static/media/img1.120543ddaadf12871897.png",
+    "static/media/img2.png": "/static/media/img2.347c1a8a98c20a0f490d.png",
+    "static/media/img3.png": "/static/media/img3.455529f954cd955c86f6.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/img.jfif": "/static/media/img.767aaf1eb097e031eea2.jfif",
+    "static/media/fb-logo.png": "/static/media/fb-logo.045e429593102d0c8d9b.png",
+    "static/media/twitter-logo.png": "/static/media/twitter-logo.be2f12ba8c6d4176ce3b.png",
+    "index.html": "/index.html",
+    "main.cb21e258.css.map": "/static/css/main.cb21e258.css.map",
+    "main.9234ee1b.js.map": "/static/js/main.9234ee1b.js.map",
+    "787.e1092195.chunk.js.map": "/static/js/787.e1092195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb21e258.css",
+    "static/js/main.9234ee1b.js"
+  ]
 }
